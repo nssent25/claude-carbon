@@ -45,6 +45,20 @@
         "decimals": 1,
         "label": "steak(s) de boeuf",
         "source": "4200 gCO2e/steak 150g, ADEME Impact CO2 2025"
+      },
+      {
+        "id": "tree_seedling",
+        "divisor": 60000,
+        "decimals": 1,
+        "label": "jeunes arbres plantés pendant 10 ans",
+        "source": "0,060 t CO2/plant sur 10 ans, EPA GHG Equivalencies (McPherson et al. 2016)"
+      },
+      {
+        "id": "tree_year",
+        "divisor": 21770,
+        "decimals": 1,
+        "label": "années-arbre adulte",
+        "source": "~21,8 kg CO2/an (48 lb), arbre urbain mature"
       }
     ],
     "us": [
@@ -77,6 +91,20 @@
         "decimals": 1,
         "label": "beef steaks",
         "source": "6400 gCO2e/steak 150g, Putman et al. 2023, US"
+      },
+      {
+        "id": "tree_seedling",
+        "divisor": 60000,
+        "decimals": 1,
+        "label": "tree seedlings grown for 10 years",
+        "source": "0.060 t CO2/seedling over 10 years, EPA GHG Equivalencies (McPherson et al. 2016)"
+      },
+      {
+        "id": "tree_year",
+        "divisor": 21770,
+        "decimals": 1,
+        "label": "mature tree-years",
+        "source": "~21.8 kg CO2/year (48 lb), mature urban tree"
       }
     ],
     "world": [
@@ -109,6 +137,20 @@
         "decimals": 1,
         "label": "beef steaks",
         "source": "14900 gCO2e/steak 150g, Poore & Nemecek 2018"
+      },
+      {
+        "id": "tree_seedling",
+        "divisor": 60000,
+        "decimals": 1,
+        "label": "tree seedlings grown for 10 years",
+        "source": "0.060 t CO2/seedling over 10 years, EPA GHG Equivalencies (McPherson et al. 2016)"
+      },
+      {
+        "id": "tree_year",
+        "divisor": 21770,
+        "decimals": 1,
+        "label": "mature tree-years",
+        "source": "~21.8 kg CO2/year (48 lb), mature urban tree"
       }
     ]
   }
